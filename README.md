@@ -32,3 +32,6 @@ Comporte-se como um escritor de artigos tech frontend e escreva o artigo atenden
 Ilustrações de capa gerada pela Lexica.Art 
 Contéudo gerado por ChatGPT
 Revisões e correções feitas por um humano
+
+## Artigo
+Devidos a problemas com a plataforma, não foi possível publicar devidamente, mas todo o conteúdo já revisar até no [content.md](content.md) para ser lido!
